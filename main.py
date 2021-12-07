@@ -39,6 +39,6 @@ for i in range(nr_symbols):
 
 
 
-result = ((result_let) + str(num_str) + str(result_sym))
+password = ((result_let) + str(num_str) + str(result_sym))
 
-print(result)
+print(password)
